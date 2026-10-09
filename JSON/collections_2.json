@@ -1,0 +1,250 @@
+[
+  {
+    "id": "mascot-01",
+    "name": "The Standard Mascot VHS Slip",
+    "description": "A slightly dusty, but reliably excellent viewing experience. Contains generalized family entertainment fun that everyone has enjoyed since the dawn of time.",
+    "imageUrl": "https://api.example/vhs/standard_mascot.jpg",
+    "dropWeight": 40,
+    "rarity": "Common"
+  },
+  {
+    "id": "mascot-02",
+    "name": "Mascot II VHS Slip",
+    "description": "A reliable staple for the collection. Perhaps a bit less exciting than the standard issue, but perfectly fine for filling out your shelves.",
+    "imageUrl": "https://api.example/vhs/mascot_two.jpg",
+    "dropWeight": 30,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "mascot-03",
+    "name": "Mascot III VHS Slip",
+    "description": "Good for casual viewing parties. We're still figuring out the exact plot points, but pure fun is guaranteed.",
+    "imageUrl": "https://api.example/vhs/mascot_three.jpg",
+    "dropWeight": 25,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "mascot-04",
+    "name": "Mascot IV VHS Slip",
+    "description": "A slightly more niche collection. Perfect for experienced collectors who appreciate the subtle cinematic artistry.",
+    "imageUrl": "https://api.example/vhs/mascot_four.jpg",
+    "dropWeight": 20,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "ghostbusters-tape",
+    "name": "Ghostbusters (Original Rip)",
+    "description": "It's out there! An old tape that captures the raw energy of supernatural investigation. Warning: May induce deep paranoia regarding household appliance noises.",
+    "imageUrl": "https://api.example/vhs/ghostbusters.jpg",
+    "dropWeight": 10,
+    "rarity": "Rare"
+  },
+  {
+    "id": "grinch-holiday",
+    "name": "The Grinch Who Stole Christmas (VHS Cut)",
+    "description": "A surprisingly emotional cinematic experience! Don't let the seasonal joy fool you; this tape details a highly necessary anti-sentimentality protest. Perfect for non-believers.",
+    "imageUrl": "https://api.example/vhs/grinch.jpg",
+    "dropWeight": 3,
+    "rarity": "Very Rare"
+  },
+  {
+    "id": "indiana-jones-jungle",
+    "name": "Indiana Jones: Raiders of the Lost Ark (Bogus Rip)",
+    "description": "A classic adventure! You can almost smell the stale jungle sweat and slightly burnt popcorn when you put this in. Contains thrilling action sequences!",
+    "imageUrl": "https://api.example/vhs/indiana_jones.jpg",
+    "dropWeight": 5,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "iron-man-tech",
+    "name": "Iron Man: Assembly Line Bloopers (Director's Cut)",
+    "description": "It wasn't all super fights. This rip focuses on the delightful behind-the-scenes chaos—including slightly embarrassing casual sparring moments.",
+    "imageUrl": "https://api.example/vhs/iron_man.jpg",
+    "dropWeight": 8,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "wildcard-cowboy",
+    "name": "Movie Title Unknown: The Wild West Standoff",
+    "description": "Pure dusty adrenaline. We are still negotiating the title, but we're pretty sure it involves shootouts, regrettable outfits, and questionable saloon piano music.",
+    "imageUrl": "https://api.example/vhs/cowboy.jpg",
+    "dropWeight": 7,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "vampire-cape-one",
+    "name": "The Noble Vampire's Misadventures (Cape One)",
+    "description": "Beware! It involves excessive melodrama and questionable gothic fashion. Contains extensive scenes of dramatic gazing into Venetian mirrors.",
+    "imageUrl": "https://api.example/vhs/vampire_cape.jpg",
+    "dropWeight": 4,
+    "rarity": "Rare"
+  },
+  {
+    "id": "witch-wizard-guif",
+    "name": "A Guide to Obscure Lore (GUID Title)",
+    "description": "An esoteric document. We believe it's related to powerful magic, but honestly, the plot kept skipping sections, making it perfect for fan theories.",
+    "imageUrl": "https://api.example/vhs/wizard_guid.jpg",
+    "dropWeight": 3,
+    "rarity": "Very Rare"
+  },
+  {
+    "id": "forest-gump-memoir",
+    "name": "Forest Gump: Life's Quirks (Extended Cut)",
+    "description": "A heartwarming, if historically inaccurate, journey through time. Proof that simplicity is often the ultimate cinematic power.",
+    "imageUrl": "https://api.example/vhs/forest_gump.jpg",
+    "dropWeight": 5,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "frankenstein-curse",
+    "name": "Frankenstein's Monster: Too Much Science",
+    "description": "Ah yes, the predictable 'mad scientist unleashes creature' trope. Required viewing for any film enthusiast who enjoys existential dread and bad wigs.",
+    "imageUrl": "https://api.example/vhs/frankenstein.jpg",
+    "dropWeight": 4,
+    "rarity": "Rare"
+  },
+  {
+    "id": "gandalf-quest",
+    "name": "The Ring's Shadow: Gandalf's Journey (Early Draft)",
+    "description": "We thought this was lost pirate treasure! It’s epic, it's wise, and it might just contain crucial plot holes that we can fill in ourselves.",
+    "imageUrl": "https://api.example/vhs/gandalf.jpg",
+    "dropWeight": 2,
+    "rarity": "Legendary"
+  },
+  {
+    "id": "nihil-gemini-bronze",
+    "name": "Gemini: The Bronze Standard (6NX)",
+    "description": "A controversial, yet critically acclaimed look at the true power of lukewarm ambition. This version was deemed 'legally required viewing' despite its low production value.",
+    "imageUrl": "https://api.example/vhs/gemini_bronze.jpg",
+    "dropWeight": 6,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "jedi-legacy-rip",
+    "name": "Jedi Mind Games: The Council's Oversight (Unauthorized Rip)",
+    "description": "High-stakes action! Contains dazzling lightsaber sequences and a deep philosophical discussion that absolutely no one understands, but sounds profound.",
+    "imageUrl": "https://api.example/vhs/jedi.jpg",
+    "dropWeight": 1,
+    "rarity": "Very Rare"
+  },
+  {
+    "id": "joker-wildcard",
+    "name": "The Joker: Smile Now (Boarding Pass Edition)",
+    "description": "A perfect blend of anarchy and questionable performance art. We advise viewing this alone, ideally while wearing gloves.",
+    "imageUrl": "https://api.example/vhs/joker.jpg",
+    "dropWeight": 1,
+    "rarity": "Legendary"
+  },
+  {
+    "id": "karate-kid-return",
+    "name": "Karate Kid: All Through the Years (Dojo Dropout Edit)",
+    "description": "A highly dramatic rewatch of fundamental physical comedy. Excellent for those who still believe in the transformative power of a decent gi.",
+    "imageUrl": "https://api.example/vhs/karate_kid.jpg",
+    "dropWeight": 5,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "matrix-bluepill",
+    "name": "The Matrix: Choosing Your Reality (Select Cuts)",
+    "description": "Will you know the truth? Or would it simply be easier to just watch this again? Contains excellent slow-motion wire work.",
+    "imageUrl": "https://api.example/vhs/matrix.jpg",
+    "dropWeight": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": "mummy-curse-tape",
+    "name": "The Curse of the Pharaoh's Slapstick (Mummy Tape)",
+    "description": "Less actual curses, more elaborate traps! An oddly entertaining look at ancient burial practices mixed with terrible practical jokes.",
+    "imageUrl": "https://api.example/vhs/mummy.jpg",
+    "dropWeight": 3,
+    "rarity": "Very Rare"
+  },
+  {
+    "id": "ogre-lair",
+    "name": "Ogre Mania: Cave Dweller Comedy",
+    "description": "You think they are scary? Wait until you see the blooper reels. A low-budget, high-concept journey into monstrous misunderstanding.",
+    "imageUrl": "https://api.example/vhs/ogre.jpg",
+    "dropWeight": 6,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "pan-mythology",
+    "name": "Pan: The God of Forgotten Picnic Spots",
+    "description": "A surprisingly sweet look at nature's whimsy. Perfect counterpoint to the cynical nihilism of other reels.",
+    "imageUrl": "https://api.example/vhs/pan.jpg",
+    "dropWeight": 5,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "pirates-booty",
+    "name": "The Pirate's Lost Loot (Overly Romantic Rip)",
+    "description": "Adventure! Swashbuckling! And a baffling amount of focus on romantic interludes compared to the actual treasure mapping. Keep an eye out for authentic brine stains.",
+    "imageUrl": "https://api.example/vhs/pirates.jpg",
+    "dropWeight": 4,
+    "rarity": "Rare"
+  },
+  {
+    "id": "powers-slapstick",
+    "name": "Austin Powers: Licensed Bad Taste Experience",
+    "description": "Pure, unadulterated groovy shag carpet disco chaos. Requires a strong appreciation for ill-fitting suits and questionable spy gadgetry.",
+    "imageUrl": "https://api.example/vhs/powers.jpg",
+    "dropWeight": 7,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "rambo-survival",
+    "name": "Rambo: Single Shot Survival Tactics (The 'Training' Version)",
+    "description": "It’s about more than just a big gun. It's about the *spirit* of self-reliance, and possibly some minor violations of international law.",
+    "imageUrl": "https://api.example/vhs/rambo.jpg",
+    "dropWeight": 5,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "rocky-escape",
+    "name": "Rocky II: The Gloves and the Grunt (Training Montage Extended)",
+    "description": "The definition of persistence. A cinematic masterpiece about hitting things with your fists, preferably in a well-lit gym.",
+    "imageUrl": "https://api.example/vhs/rocky_ii.jpg",
+    "dropWeight": 6,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "sith-saga",
+    "name": "Sith Lords: Ethical Grievances (Dark Side Commentary)",
+    "description": "A meta take on questionable villain motivation. Highly rated by dramatic aficionados who prefer their evil to be moody.",
+    "imageUrl": "https://api.example/vhs/sith.jpg",
+    "dropWeight": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": "terminator-timebomb",
+    "name": "The Terminator: Time Travel Triumphant (Initial Draft)",
+    "description": "A relentless chase sequence that transcends time. Contains a lot of industrial grit and the unsettling realization that you probably should have stayed home.",
+    "imageUrl": "https://api.example/vhs/terminator.jpg",
+    "dropWeight": 1,
+    "rarity": "Legendary"
+  },
+  {
+    "id": "turtles-mutants",
+    "name": "Teenage Mutant Ninja Turtles: sewer Life (Educational Rip)",
+    "description": "Surprisingly insightful look into urban plumbing and martial arts. A genuinely bizarre, but highly collectible piece of media.",
+    "imageUrl": "https://api.example/vhs/turtles.jpg",
+    "dropWeight": 4,
+    "rarity": "Rare"
+  },
+  {
+    "id": "banned-suit",
+    "name": "The Classic Vampire Cape No. 1",
+    "description": "A bit much melodrama and far too comfortable for seasonal viewing.",
+    "imageUrl": "https://api.example/vhs/vampire_cape_banned.jpg",
+    "dropWeight": 5,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "will-wallace-rip",
+    "name": "The Man Who Got Away: Will Wallace (Test Footage)",
+    "description": "A highly enigmatic collection of footage. Is it a man? Is it memory? We don't know, which is probably what makes it priceless.",
+    "imageUrl": "https://api.example/vhs/will_wallace.jpg",
+    "dropWeight": 3,
+    "rarity": "Very Rare"
+  }
+]
